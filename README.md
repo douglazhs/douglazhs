@@ -1,5 +1,5 @@
 ### Hi, I'm Douglas ✌️
-[![Twitter Badge](https://img.shields.io/twitter/url?logo=douglazhs&url=%2Ftwitter%2Furl)]
+[![Twitter Badge]((https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)]
 
 Here are some ideas to get you started:
 
