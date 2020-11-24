@@ -1,5 +1,5 @@
 ### Hi, I'm Douglas ✌️
-[![Gmail Badge]]douglashenrike.dsp@gmail.com
+[![Gmail Badge]](douglashenrike.dsp@gmail.com)
 
 Here are some ideas to get you started:
 
