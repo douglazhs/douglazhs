@@ -4,7 +4,7 @@
 [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](doug123.henrique@outlook.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/douglazhsp)
 [[Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
-[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/douglazhs?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/douglazhs.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/douglazhs?tab=followers)
 [![HitCount](http://hits.dwyl.com/douglazhs/douglazhs.svg)](http://hits.dwyl.com/douglazhs/douglazhs)
 ---
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=douglazhs&theme=blue-green)](https://github.com/douglazhs/github-readme-stats)
