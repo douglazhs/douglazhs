@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 - 💻 I’m currently studying computer science.
 - 📌 I’m currently learning Java.
-- 📱  I'm currently working on app development with [![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+- 📱  I'm currently working on app development with **React Native**.
 ---
 [![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/douglazhs/)
