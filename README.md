@@ -13,7 +13,7 @@
 I am 20 years old and I enter the college at 18. Before I started, I never had any programming experience. However, after starting, I fell in love and here I am, programming several hours a day. Currently, my favorite programming language is Java and I am looking to learn about other technologies, such as React Native.  
 
 ---
-##Programming languages  
+## Programming languages
   
 [![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
 [![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
