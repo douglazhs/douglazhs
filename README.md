@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 📌 I’m currently learning Java.
 - 📱  I'm currently working on app development with **React Native**.
 - :octocat: I'm a GitHuber.
+
 ---
 [![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/douglazhs/)
