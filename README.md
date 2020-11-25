@@ -10,10 +10,9 @@
 ---
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=douglazhs&theme=blue-green)](https://github.com/douglazhs/github-readme-stats)
 ---
-I am 20 years old and I enter the college at 18. Before I started, I never had any programming experience. However, after starting, I fell in love and here I am, programming several hours a day. Currently, my favorite programming language is Java and I am looking to learn about other technologies, such as React Native.
-
+I am 20 years old and I enter the college at 18. Before I started, I never had any programming experience. However, after starting, I fell in love and here I am, programming several hours a day. Currently, my favorite programming language is Java and I am looking to learn about other technologies, such as React Native.  
 ---
-#Programming languages  
+##Programming languages  
 [![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
 [![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
 ---
@@ -23,6 +22,6 @@ I am 20 years old and I enter the college at 18. Before I started, I never had a
 - ☎️ I'm planning to start one app development with **React Native**.
 - 🕙 In my spare time I solve bugs 😅.
 - :octocat: I'm a GitHuber.
----
+*******
 [![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/douglazhs/)
