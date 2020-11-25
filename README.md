@@ -17,7 +17,7 @@ I am 20 years old and I enter the college at 18. Before I started, I never had a
 - 💻 I’m currently studying computer science.
 - 🔧 I programm in C about 1 year.
 - 📌 I’m learning Java about 6 months.
-- 📱  I'm planning to start one app development with **React Native**.
+- 📱   I'm planning to start one app development with **React Native**.
 - :octocat: I'm a GitHuber.
 ---
 [![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
