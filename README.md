@@ -12,11 +12,12 @@
 ---
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=douglazhs&theme=blue-green)](https://github.com/douglazhs/github-readme-stats)
 ---
-Here are some ideas to get you started:
+I am 20 years old and I enter the college at 18. Before I started, I never had any programming experience. However, after starting, I fell in love and here I am, programming several hours a day. Currently, my favorite programming language is Java and I am looking to learn about other technologies, such as React Native.
 
 - 💻 I’m currently studying computer science.
-- 📌 I’m currently learning Java.
-- 📱  I'm currently working on app development with **React Native**.
+- 🔧 I programm in C about 1 year.
+- 📌 I’m learning Java about 6 months.
+- 📱  I'm planning to start one app development with **React Native**.
 - :octocat: I'm a GitHuber.
 ---
 [![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
