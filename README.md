@@ -17,6 +17,8 @@ I am 20 years old and I enter the college at 18. Before I started, I never had a
   
 [![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
 [![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
+[![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
+[[](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
 ---
 - 💻 I’m currently studying computer science.
 - 🔧 I programm in C about 1 year.
