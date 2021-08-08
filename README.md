@@ -7,8 +7,8 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/douglazhsp)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-henrique-de-souza-pereira-7a1a6416b/)
 ---
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=douglazhs&theme=tokyonight)](https://github.com/douglazhs/github-readme-stats)
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=douglazhs&langs_count=5&theme=tokyonight)]()
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=douglazhs&theme=radical)](https://github.com/douglazhs/github-readme-stats)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=douglazhs&langs_count=5&theme=radical)]()
 ---
 I am 20 years old and I enter the college at 18. Before I started, I never had any programming experience. However, after starting, I fell in love and here I am, programming several hours a day. Currently, my favorite programming language is Java and I am looking to learn about other technologies, such as React Native.  
 
