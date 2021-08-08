@@ -32,3 +32,18 @@ I am 20 years old and I enter the college at 18. Before I started, I never had a
 ___
 [![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/douglazhs/)
+
+- uses: Platane/snk@master
+  with:
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    github_user_name: ${{ github.repository_owner }}
+
+    # path of the generated gif file
+    # If left empty, the gif file will not be generated
+    gif_out_path: dist/github-snake.gif
+
+    # path of the generated svg file
+    # If left empty, the svg file will not be generated
+    svg_out_path: dist/github-snake.svg
+
