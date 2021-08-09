@@ -24,8 +24,9 @@ I am 20 years old and I enter the college at 18. Before I started, I never had a
 ---
 ## Skills
 - 💻 I’m currently studying computer science.
+- ❤️ Swift is my first language.
 - 🔧 I programm in C about 1 year.
-- 📌 Learning Java and suffering about 6 months 😆.
+- 📌 Learning Java and suffering about 6 months.
 - ☎️ I'm planning to start one app development with **React Native**.
 - 🕙 In my spare time I solve bugs 😅.
 - :octocat: I'm a GitHuber.
