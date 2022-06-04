@@ -13,7 +13,7 @@
 #### I am 20 years old and I enter the college at 18. Before I started, I never had any programming experience. However, after starting, I fell in love and here I am, programming several hours a day. Currently, my favorite programming language is Java and I am looking to learn about other technologies, such as React Native.  
 
 ---
-## Languages & Tools 
+## Skills & Tools 
   
 ![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
 [![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
@@ -21,12 +21,6 @@
 [![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
----
-## Skills
-- 💻 I’m currently studying computer science.
-- ❤️ Swift is my first language.
-- 🕙 In my spare time I solve bugs 😅.
-- :octocat: I'm a GitHuber.
 ___
 [![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/douglazhs/)
