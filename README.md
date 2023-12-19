@@ -1,6 +1,6 @@
 ## Hi, I'm Douglas ✌️
 [![GitHub followers](https://img.shields.io/github/followers/douglazhs.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/douglazhs?tab=followers)
-![Profile views](https://gpvc.arturio.dev/douglazhs)
+[![Profile views](https://gpvc.arturio.dev/douglazhs)]
 ---
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/douglazhs)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/douglazhsp)
